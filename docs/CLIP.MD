@@ -7,3 +7,5 @@
     - **Image** is embedded using an **image transformer**.
 4. Text and images that denote similar things are **very close to each other** in this vector space.
 5. Text and images that denote different things are **far away from each other** in this vector space.
+
+![CLIP Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20240312172644/CLIP-(Contrastive-Language-Image-Pretraining).png)
