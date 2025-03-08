@@ -1,6 +1,6 @@
 # What is CLIP?
 
-1. **CLIP** stands for **Contrastive Language-Image Pairs**.
+1. **CLIP** stands for **Contrastive Language-Image Pre-Training**.
 2. It acts as a bridge between the modalities of **Image** and **Text**.
 3. A **common vector space** for both text and images is created:
     - **Text** is embedded using a **text transformer**.
