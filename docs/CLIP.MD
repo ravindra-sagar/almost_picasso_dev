@@ -9,3 +9,5 @@
 5. Text and images that denote different things are **far away from each other** in this vector space.
 
 ![CLIP Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20240312172644/CLIP-(Contrastive-Language-Image-Pretraining).png)
+
+For more details, checkout [GeeksForGeeks](https://www.geeksforgeeks.org/clip-contrastive-language-image-pretraining/)
